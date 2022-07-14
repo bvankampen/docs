@@ -10,5 +10,6 @@ I have any questions, open an [issue](https://github.com/bvankampen/docs/issues)
 ## Table of contents:
 
 - Rancher
-  - [system-upgrade-controller](/rancher/system-upgrade-controller.md)
+  - [System Upgrade Controller](/rancher/system-upgrade-controller.md)
+  - [cert-manager with cloudflare DNS](rancher/cert-manager-cloudflare.md)
 
