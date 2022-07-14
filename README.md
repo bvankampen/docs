@@ -1,6 +1,3 @@
----
-title: "docs.bvk.me"
----
 ## Welcome
 
 Welcome to docs.bvk.me, where I store all my documentation I want to share with the world.

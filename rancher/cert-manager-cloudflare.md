@@ -1,6 +1,3 @@
----
-title: cert-manager with cloudflare DNS
----
 ## Cert-manager with cloudflare for automatic TLS certificates
 
 Configuration files for configuration of cert-manager to fully automatic get certificates for application in Kubernetes.
