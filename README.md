@@ -1,6 +1,6 @@
 Welcome to docs.bvk.me, where I store all my documentation I want to share with the world.
 
-**About Me:**
+**About Me:**  
 Bas van Kampen  
 Senior Technology Consultant @ [SUSE](https://www.suse.com)  
 
