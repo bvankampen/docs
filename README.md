@@ -6,7 +6,7 @@ Senior Technology Consultant @ [SUSE](https://www.suse.com)
 
 [Github](https://github.com/bvankampen) [Linkedin](https://www.linkedin.com/in/bas-van-kampen-082aa86) [Twitter](https://twitter.com/basvk)
 
-**Interests**:
+**Interests**:  
 Opensource, Kubernetes, Rancher, Linux, Storage, (Vintage) Electronics & Computing, Music, and Cycling.
 
 I you have any questions, open an [issue](https://github.com/bvankampen/docs/issues).
